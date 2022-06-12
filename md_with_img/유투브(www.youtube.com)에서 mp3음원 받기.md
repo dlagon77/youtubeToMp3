@@ -4,7 +4,7 @@
 
 - ### 원하시는 음악만 들어있는 유투브 영상을 검색 해 주세요
 
-  ![image-20220612220224610](img\image-20220612220224610.png)
+  ![image-20220612220224610](https://github.com/dlagon77/youtubeToMp3/blob/main/md_with_img/img\image-20220612220224610.png)
 
 
 
@@ -12,13 +12,13 @@
 
 - ### 로그인 안한 상태라 광고 나올 수 있는데 상관 없이 아래 공유 버튼 눌러주세요
 
-  ![image-20220612220422785](img\image-20220612220422785.png)
+  ![image-20220612220422785](https://github.com/dlagon77/youtubeToMp3/blob/main/md_with_img/img\image-20220612220422785.png)
 
 
 
 - ### 유투브 영상에서 아래 공유 버튼 누르셔서 나오는 링크 복사해 주세요
 
-  ![image-20220612220554624](img\image-20220612220554624.png)
+  ![image-20220612220554624](https://github.com/dlagon77/youtubeToMp3/blob/main/md_with_img/img\image-20220612220554624.png)
 
 
 
@@ -26,13 +26,13 @@
 
 - ### Y2mate 사이트(https://www.y2mate.com/kr290/youtube-mp3)
 
-  ![image-20220612221954427](img\image-20220612221954427.png)
+  ![image-20220612221954427](https://github.com/dlagon77/youtubeToMp3/blob/main/md_with_img/img\image-20220612221954427.png)
 
 ## 1-4. 변환 사이트에 링크 복붙
 
 - ### 입력란에 복사한 링크를 복붙해 주세요. (Ctrl + V)
 
-  ![image-20220612221146901](img\image-20220612221146901.png)
+  ![image-20220612221146901](https://github.com/dlagon77/youtubeToMp3/blob/main/md_with_img/img\image-20220612221146901.png)
 
   
 
@@ -40,29 +40,29 @@
 
 - ### 다운로드 버튼을 누르시면 다운 받으실 수 있어요.
 
-  ![image-20220612221229023](img\image-20220612221229023.png)
+  ![image-20220612221229023](https://github.com/dlagon77/youtubeToMp3/blob/main/md_with_img/img\image-20220612221229023.png)
 
 - ### 도중에 광고는 끄시고 새로운 창으로 뜨는 광고도 그 광고 창은 끄시면 됩니다.
 
-  ![image-20220612220844956](img\image-20220612220844956.png)
+  ![image-20220612220844956](https://github.com/dlagon77/youtubeToMp3/blob/main/md_with_img/img\image-20220612220844956.png)
 
   ------
 
   
 
-![image-20220612221019949](img\image-20220612221019949.png)
+![image-20220612221019949](https://github.com/dlagon77/youtubeToMp3/blob/main/md_with_img/img\image-20220612221019949.png)
 
 ------
 
-![image-20220612221606124](img\image-20220612221606124.png)
+![image-20220612221606124](https://github.com/dlagon77/youtubeToMp3/blob/main/md_with_img/img\image-20220612221606124.png)
 
 ------
 
-![image-20220612221645041](img\image-20220612221645041.png)
+![image-20220612221645041](https://github.com/dlagon77/youtubeToMp3/blob/main/md_with_img/img\image-20220612221645041.png)
 
 ------
 
-![image-20220612221709547](img\image-20220612221709547.png)
+![image-20220612221709547](https://github.com/dlagon77/youtubeToMp3/blob/main/md_with_img/img\image-20220612221709547.png)
 
 
 
@@ -92,19 +92,19 @@
 
   ### (유투브에서 검색했을 때보단 영상이 적으니 추가적으로 필요하시면 유투브에서 검색하시면 됩니다)
 
-  ![image-20220612222139013](img\image-20220612222139013.png)
+  ![image-20220612222139013](https://github.com/dlagon77/youtubeToMp3/blob/main/md_with_img/img\image-20220612222139013.png)
 
   ------
 
-  ![image-20220612222215308](img\image-20220612222215308.png)
+  ![image-20220612222215308](https://github.com/dlagon77/youtubeToMp3/blob/main/md_with_img/img\image-20220612222215308.png)
 
   ------
 
-  ![image-20220612222237729](img\image-20220612222237729.png)
+  ![image-20220612222237729](https://github.com/dlagon77/youtubeToMp3/blob/main/md_with_img/img\image-20220612222237729.png)
 
   ------
 
-  ![image-20220612222311124](img\image-20220612222311124.png)
+  ![image-20220612222311124](https://github.com/dlagon77/youtubeToMp3/blob/main/md_with_img/img\image-20220612222311124.png)
 
 
 
@@ -112,13 +112,13 @@
 
   ### (그럼 해당 유투브 영상 다운 받는 Y2mate 사이트로 바로 가실 수 있습니다.)
 
-  ![image-20220612222629237](img\image-20220612222629237.png)
+  ![image-20220612222629237](https://github.com/dlagon77/youtubeToMp3/blob/main/md_with_img/img\image-20220612222629237.png)
 
   ------
 
-  ![image-20220612222726027](img\image-20220612222726027.png)
+  ![image-20220612222726027](https://github.com/dlagon77/youtubeToMp3/blob/main/md_with_img/img\image-20220612222726027.png)
 
   ------
 
-  ![image-20220612222830355](img\image-20220612222830355.png)
+  ![image-20220612222830355](https://github.com/dlagon77/youtubeToMp3/blob/main/md_with_img/img\image-20220612222830355.png)
 
