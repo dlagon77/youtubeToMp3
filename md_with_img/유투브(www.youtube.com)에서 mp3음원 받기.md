@@ -1,4 +1,4 @@
-# 1.유투브(www.youtube.com)에서 mp3음원 받기
+# 1.유투브( www.youtube.com )에서 mp3음원 받기
 
 ## 1-1. 유투브에서 음원을 검색
 
